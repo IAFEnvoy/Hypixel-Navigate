@@ -5,7 +5,7 @@
 # 网站标题
 title: Hypixel网站导航
 # 网站 LOGO（可选）
-logo: /favicon.jpg
+# logo: /favicon.jpg
 # 网址导航页面关键字（可选）
 keywords: Hypixel网站导航
 # 网址导航页面描述（可选）
@@ -13,7 +13,7 @@ description: Hypixel网站导航
 # 网址导航页面 URL（可选）
 url: https://hypixel.ltd/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: /favicon.jpg
 # 社交分享图片（可选）
 # og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
@@ -83,7 +83,7 @@ categories:
         url: https://sky.shiiyu.moe
         description: Skyblock数据查询
       - title: Shmeado
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: /barrier.png
         url: https://shmeado.club
         description: 更全的数据查询
 
@@ -115,11 +115,11 @@ categories:
     icon: linecons-doc
     links:
       - title: 中国排位起床社区
-        logo: https://img.kookapp.cn/icons/2023-12/MqSfguLDiS06j06j.png?x-oss-process=style/icon
+        logo: /icons/kook.rbwcn.cn.webp
         url: https://kook.rbwcn.cn
         description: CNRBW社区
       - title: 中国海像素玩家救助站
-        logo: https://img.kookapp.cn/attachments/2023-11/19/D6xrI2qcUq0yd0yd.jpg?x-oss-process=style/icon
+        logo: /icons/tea.iafenvoy.tech.webp
         url: https://tea.iafenvoy.tech
         description: 一个神奇的KOOK服务器
 
