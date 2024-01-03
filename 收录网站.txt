@@ -1,0 +1,41 @@
+本站网址：hypixel.ltd
+
+官方：
+官网：hypixel.net
+官方API：developer.hypixel.net
+Skyblock百科：wiki.hypixel.net
+Discord：discord.gg/hypixel
+
+查询网站：
+Plancke（官方Hypixel数据查询）：plancke.io
+SkyCrypt（Skyblock数据查询）：sky.shiiyu.moe
+Shmeado（更全的数据查询）：shmeado.club
+
+加速IP：
+Hypixel中国加速（导航站）：free.hypixel.cn
+忆加速：speed.hypixel.com.cn
+韵加速：yjiasu.com
+LiteBoost：hypixel.cc
+雪糕：freeip.cc
+
+KOOK社区：
+中国排位起床社区：kook.rbwcn.cn
+中国海像素玩家救助站：tea.iafenvoy.tech
+
+Discord社区：（暂时不添加）
+AntiSniper：discord.gg/antisniper
+Tracking：discord.gg/tracking
+NotEnoughUpdates：discord.gg/moulberry
+
+公会官网：
+茶话会：guild.hypcvgm.top
+StarburstGalaxies：starburst.team
+HelloChina：hcn.hypixel.com.cn
+JuziClub：juziclub.net
+
+Client/Mod/软件：
+Sk1er（各类mod）：sk1er.club
+Lunar Client：www.lunarclient.com
+Badlion Client：client.badlion.net
+Feather Client：feathermc.com
+Starburst Overlay：overlay.starburst.team

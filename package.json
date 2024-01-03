@@ -1,0 +1,9 @@
+{  
+  "scripts": {
+    "build": "geneasy -t index.hbs -o index.html links.yml"
+  },
+  "dependencies": {
+    "geneasy": "^0.1.2",
+    "handlebars": "^4.7.8"
+  }
+}
