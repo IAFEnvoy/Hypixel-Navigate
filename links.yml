@@ -46,9 +46,14 @@ categories:
     hide_menu: false
     icon: linecons-star
     links:
-      - title: 等你来加➕
+      - title: 收录网站
         logo: /barrier.png
-        url: https://github.com/geneasy/nav/issues
+        url: /add_domain.html
+        description: 快来提交你的网站吧
+        tags: 空
+      - title: 申请子域名 
+        logo: /barrier.png
+        url: /add_sub_domain.html
         description: 快来提交你的网站吧
         tags: 空
 
@@ -142,6 +147,14 @@ categories:
         logo: /barrier.png
         url: https://juziclub.net
         description: JuziClub
+
+  - category: 服务器
+    icon: linecons-doc
+    links:
+      - title: BeansPractice
+        logo: https://beanspractice.my.canvasite.cn/2d0b56e7e51cf11036ad8734bdb67e2d.png
+        url: https://beanspractice.my.canvasite.cn
+        description: 国产优质起床训练服务器
 
   - category: Client/Mod/软件
     icon: linecons-doc
