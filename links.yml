@@ -76,6 +76,7 @@ categories:
         logo: https://hypixel.net/favicon-32x32.png
         url: https://discord.gg/hypixel/
         description: 官方Discord
+
   - category: 查询网站
     icon: linecons-doc
     links:
@@ -107,9 +108,9 @@ categories:
         logo: https://yjiasu.com/favicon.ico
         url: https://yjiasu.com
         description: 韵加速官网，公益&付费
-      - title: LiteBoost（维护中）
-        logo: /barrier.png
-        url: https://hypixel.cc
+      - title: LiteBoost
+        logo: https://g.imgtg.com/uploads/5199/65730ad931fe3.png
+        url: https://liteboost.cn
         description: LiteBoost公益加速ip
       - title: 雪糕
         logo: https://freeip.cc/images/logo.webp
